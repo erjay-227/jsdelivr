@@ -1,0 +1,517 @@
+[class^="icon-"], [class*=" icon-"] {
+    background-image: none;
+}
+
+#header-navigation .pagemenu ul {
+    list-style-type: none;
+}
+
+#header-navigation .pagemenu ul li {
+    float: left;
+    margin-right: 5px;
+}
+
+
+.sidebar-search-container {
+    margin: 0;
+    color: #fff;
+}
+
+li.widgetcontainer .sidebar-search-container i {
+    color: #fff;
+}
+
+.sidebar-search-container form input {
+    float: none;
+    width: 222px;
+}
+
+ul.children {
+    margin: 0 0 0 40px;
+}
+
+ul.children li {
+    list-style-type: none;
+}
+
+.flickr_badge_image {
+    float: left;
+    margin: 0 0 10px 10px;
+    width: 60px;
+}
+
+.aside ul {
+    margin: 0;
+}
+
+.nav-search form {
+    margin: 0;
+}
+
+#searchform {
+    display: inline-block;
+}
+
+#logo {
+    background: transparent;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.tp-leftarrow.default {
+    background: url("img/large_left.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    opacity: 0.5;
+}
+
+.tp-rightarrow.default {
+    opacity: 0.5;
+    background: url("img/large_right.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+pre code br {
+    display: none;
+}
+
+/****************************************************** admin *********************************************************/
+#content-position-meta {
+    display: none;
+}
+
+#post_video {
+    display: none;
+}
+
+#post_gallery {
+    display: none;
+}
+
+#button-icons-label {
+    font-weight: bold;
+}
+
+.post-icon-wrapper i {
+    margin-bottom: 10px;
+}
+
+.post-icon-wrapper i {
+    display: block;
+    line-height: 30px;
+    text-align: center;
+    font-size: 16px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #b5b5b5;
+}
+
+.mce_stylish_shortcodes_button, .mce_stylish_shortcodes_button img {
+    width: 80px !important;
+}
+
+.admin-stylish-button {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    height: 33px;
+    color: #fff;
+    padding: 0;
+    border-radius: 0;
+    border: 0;
+    float: right;
+    margin: 20px 0 0 0;
+
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.admin-stylish-button input, .admin-stylish-button button {
+    display: block;
+    padding: 0 17px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    border: 0;
+    margin: 0;
+    line-height: 33px;
+    height: 33px;
+    vertical-align: baseline;
+    background-color: #7DBB18;
+    cursor: pointer;
+
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.admin-menu-customization li {
+    float: left;
+    text-align: center;
+    margin-right: 10px;
+    width: 100px;
+}
+
+.admin-menu-customization li div.icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.admin-menu-customization li .nav-icon {
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    padding-top: 15px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.admin-menu-customization .nav-icon i {
+    font-size: 35px;
+    vertical-align: top;
+}
+
+.admin-menu-customization .nav-text {
+    line-height: 14px;
+}
+
+.admin-menu-customization .wp-color-result {
+    padding: 0;
+    width: 100px;
+}
+
+.admin-menu-customization .wp-color-result:after {
+    border-left: none;
+}
+
+.menu-color {
+    width: 101px;
+}
+
+.icon-button {
+    border: none;
+    border-radius: 0 !important;
+    margin-bottom: 10px !important;
+    width: 102px !important;
+}
+
+.menu-icon-button {
+    width: 100px;
+}
+
+.wp-picker-container {
+    width: 100px;
+}
+
+.meta-fields-container table td {
+    border-top: 1px solid #eee;
+    padding: 10px 0;
+    vertical-align: top;
+}
+
+.meta-fields-container table td:last-child {
+    width: 70%;
+}
+
+.meta-fields-container label {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+#shortcodes-form, #icons-form {
+    position: relative;
+    width: 807px;
+    height: auto;
+    background: #fff;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+#shortcodes-table th {
+    width: 200px;
+}
+
+
+/***************************************************** sidebar ********************************************************/
+.inside_header {
+    display: none;
+}
+
+li.widgetcontainer {
+    margin: 0 0 40px 0;
+}
+
+li.widgetcontainer {
+    list-style-type: none;
+}
+
+li.widgetcontainer h5 {
+    color: #333;
+}
+
+li.widgetcontainer li {
+    list-style-type: none;
+}
+
+li.widgetcontainer h3 {
+    color: #333;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+li.widgetcontainer a {
+    color: #777;
+}
+
+li.widgetcontainer a:hover {
+    text-decoration: underline;
+}
+
+li.widgetcontainer i {
+    font-size: 16px;
+    line-height: 20px;
+    color: #777;
+    margin: 0 0 0 7px;
+    vertical-align: middle;
+}
+
+p.tab-row-title a {
+    font-weight: bold;
+    line-height: 14px;
+    padding-top: 0;
+}
+
+li.widgetcontainer .tagcloud a {
+    padding: 5px;
+}
+
+#wp-calendar th {
+  text-align: left;
+}
+
+li.widgetcontainer ul.sub-menu {
+    padding-left: 7px;
+}
+
+li.widgetcontainer li {
+    margin: 0;
+}
+
+/***************************************************** select2 ********************************************************/
+.select2-container a.select2-choice {
+    border-radius: 0;
+}
+
+.select2-drop {
+    border-radius: 0;
+}
+
+.select2-search {
+    display: none;
+}
+
+.select2-results {
+    max-height: 400px;
+}
+
+.select2-result {
+    margin: 0;
+}
+
+.select2-drop-active, .select2-container-active .select2-choice, .select2-container-active .select2-choices {
+    border-color: #7DBB18;
+}
+
+.select2-results .select2-highlighted {
+    background-color: #7DBB18;
+}
+
+/**************************************************** preloader ********************************************************/
+.pre-loader {
+    width: 100%; text-align: center;
+}
+
+.load-more-pre-loader {
+    width: 100%; text-align: center;
+    margin: 50px 0 0 0;
+    display: none;
+}
+
+#floatingCirclesG {
+    display: inline-block;
+}
+
+#floatingCirclesG{
+    position:relative;
+    width:128px;
+    height:128px;
+    -moz-transform:scale(0.6);
+    -webkit-transform:scale(0.6);
+    -ms-transform:scale(0.6);
+    -o-transform:scale(0.6);
+    transform:scale(0.6);
+}
+
+.f_circleG{
+    position:absolute;
+    background-color:#FFFFFF;
+    height:23px;
+    width:23px;
+    -moz-border-radius:12px;
+    -moz-animation-name:f_fadeG;
+    -moz-animation-duration:0.88s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-direction:linear;
+    -webkit-border-radius:12px;
+    -webkit-animation-name:f_fadeG;
+    -webkit-animation-duration:0.88s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-direction:linear;
+    -ms-border-radius:12px;
+    -ms-animation-name:f_fadeG;
+    -ms-animation-duration:0.88s;
+    -ms-animation-iteration-count:infinite;
+    -ms-animation-direction:linear;
+    -o-border-radius:12px;
+    -o-animation-name:f_fadeG;
+    -o-animation-duration:0.88s;
+    -o-animation-iteration-count:infinite;
+    -o-animation-direction:linear;
+    border-radius:12px;
+    animation-name:f_fadeG;
+    animation-duration:0.88s;
+    animation-iteration-count:infinite;
+    animation-direction:linear;
+}
+
+#frotateG_01{
+    left:0;
+    top:52px;
+    -moz-animation-delay:0.33s;
+    -webkit-animation-delay:0.33s;
+    -ms-animation-delay:0.33s;
+    -o-animation-delay:0.33s;
+    animation-delay:0.33s;
+}
+
+#frotateG_02{
+    left:15px;
+    top:15px;
+    -moz-animation-delay:0.44s;
+    -webkit-animation-delay:0.44s;
+    -ms-animation-delay:0.44s;
+    -o-animation-delay:0.44s;
+    animation-delay:0.44s;
+}
+
+#frotateG_03{
+    left:52px;
+    top:0;
+    -moz-animation-delay:0.55s;
+    -webkit-animation-delay:0.55s;
+    -ms-animation-delay:0.55s;
+    -o-animation-delay:0.55s;
+    animation-delay:0.55s;
+}
+
+#frotateG_04{
+    right:15px;
+    top:15px;
+    -moz-animation-delay:0.66s;
+    -webkit-animation-delay:0.66s;
+    -ms-animation-delay:0.66s;
+    -o-animation-delay:0.66s;
+    animation-delay:0.66s;
+}
+
+#frotateG_05{
+    right:0;
+    top:52px;
+    -moz-animation-delay:0.77s;
+    -webkit-animation-delay:0.77s;
+    -ms-animation-delay:0.77s;
+    -o-animation-delay:0.77s;
+    animation-delay:0.77s;
+}
+
+#frotateG_06{
+    right:15px;
+    bottom:15px;
+    -moz-animation-delay:0.88s;
+    -webkit-animation-delay:0.88s;
+    -ms-animation-delay:0.88s;
+    -o-animation-delay:0.88s;
+    animation-delay:0.88s;
+}
+
+#frotateG_07{
+    left:52px;
+    bottom:0;
+    -moz-animation-delay:0.99s;
+    -webkit-animation-delay:0.99s;
+    -ms-animation-delay:0.99s;
+    -o-animation-delay:0.99s;
+    animation-delay:0.99s;
+}
+
+#frotateG_08{
+    left:15px;
+    bottom:15px;
+    -moz-animation-delay:1.1s;
+    -webkit-animation-delay:1.1s;
+    -ms-animation-delay:1.1s;
+    -o-animation-delay:1.1s;
+    animation-delay:1.1s;
+}
+
+@-moz-keyframes f_fadeG{
+    100%{
+        background-color:#FFFFFF}
+
+}
+
+@-webkit-keyframes f_fadeG{
+
+    100%{
+        background-color:#FFFFFF}
+
+}
+
+@-ms-keyframes f_fadeG{
+
+    100%{
+        background-color:#FFFFFF}
+
+}
+
+@-o-keyframes f_fadeG{
+
+    100%{
+        background-color:#FFFFFF}
+
+}
+
+@keyframes f_fadeG{
+
+    100%{
+        background-color:#FFFFFF}
+
+}
